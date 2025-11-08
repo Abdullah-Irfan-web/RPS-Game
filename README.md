@@ -60,7 +60,7 @@ https://expo.dev/preview/update?message=Initial+version+of+RPS+Camera+AI+app&upd
 (Open it in your browser and it will redirect you to open through expo go app)
 
 exp://u.expo.dev/532af75a-d58f-4311-b553-850940d9db8b/group/e1568aaf-0d2d-4509-bbb5-02c986c701da
-(Open directly thorugh your expo go app. Enter this URL Manually)
+(Open directly through your expo go app. Enter this URL Manually)
 
 
 
