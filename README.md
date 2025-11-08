@@ -56,9 +56,11 @@ App will open on your phone instantly
 📸 Demo
 
 👉 Live App: 
-https://expo.dev/preview/update?message=Initial+version+of+RPS+Camera+AI+app&updateRuntimeVersion=1.0.0&createdAt=2025-11-08T07%3A29%3A58.475Z&slug=exp&projectId=532af75a-d58f-4311-b553-850940d9db8b&group=e1568aaf-0d2d-4509-bbb5-02c986c701da (Open it in your browser and it will redirect ypu to open through expo go app)
+https://expo.dev/preview/update?message=Initial+version+of+RPS+Camera+AI+app&updateRuntimeVersion=1.0.0&createdAt=2025-11-08T07%3A29%3A58.475Z&slug=exp&projectId=532af75a-d58f-4311-b553-850940d9db8b&group=e1568aaf-0d2d-4509-bbb5-02c986c701da
+(Open it in your browser and it will redirect you to open through expo go app)
 
-exp://u.expo.dev/532af75a-d58f-4311-b553-850940d9db8b/group/e1568aaf-0d2d-4509-bbb5-02c986c701da (Open directly thorugh your expo go app. Enter this URL Manually)
+exp://u.expo.dev/532af75a-d58f-4311-b553-850940d9db8b/group/e1568aaf-0d2d-4509-bbb5-02c986c701da
+(Open directly thorugh your expo go app. Enter this URL Manually)
 
 
 
